@@ -1,25 +1,4 @@
-//════════════════════════════//
-//If you want to recode, reupload
-//or copy the codes/script,
-//pls give credit
-//no credit? i will take action immediately
-//© 2022 Xeon Bot Inc. Cheems Bot MD
-//Thank you to Lord Buddha, Family and Myself
-//════════════════════════════//
-//recode kar ke youtube pe upload kar rhe ya
-//codes copy kar ke apne script me dal rhe
-//hai to, description me xeon ka yt channel
-// ka link paste kr dena as a cradit or github 
-//repo me bhi tag kardena baki jo
-//bhi karna hai apki marzi, thank you!🦄
-//════════════════════════════//
-//If you recode and uploading on your channel
-//or copy pasting the codes in ur script, 
-//i give permission to do as long as you
-//put Xeons youtube channel link in the video
-//description and tag me on githuh repo, 
-//thank you🦄
-//════════════════════════════//
+
 
 const fs = require("fs")
 const chalk = require("chalk")
@@ -41,26 +20,26 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['ur number'] //ur owner number
-global.ownername = "ur name"
-global.ytname = "YT: Xeon" //ur yt chanel name
-global.socialm = "GitHub: DGXeon" //ur github or insta name
-global.location = "India, Mizoram, Aizawl" //ur location
+global.owner = ['966559202629'] //ur owner number
+global.ownername = "Robin"
+global.ytname = "Golden Lorvid" //ur yt chanel name
+global.socialm = "Golden Lorvid" //ur github or insta name
+global.location = "Golden Lorvid" //ur location
 
 //bot bombdy
-global.botname = "ur bot name" //ur bot name
-global.websitex = "https://youtu.be/xn9RatOrbuI" //ur website
+global.botname = "Dora" //ur bot name
+global.websitex = "www.yogan.biz" //ur website
 global.vidmenu = { url: 'https://a.uguu.se/zlzQZvXH.mp4' } //gif and video menu
-global.packname = "Cheems Bot Stickers\n\n\n\n\n\n\n🦄🦄🦄 "
-global.author = "🦄Dream Guy Xeon"
-global.themeemoji = "🐶"
-global.reactmoji = "😘"
-global.ownertag = ['ur number'] //ur owner tag
-global.ownernummenu = ['ur number'] //ur owner number in menu and all
-global.watermark = "Xeon Bot Inc." //ur watermark
-global.botscript = "https://github.com/DGXeon/CheemsBot-MD3"
-global.linkz1 = "https://chat.whatsapp.com/HYj9wu5Jrv6CROxyeQbHoS"
-global.linkz2 = "https://chat.whatsapp.com/EcycNbJFCVT5ZsG9xIGkqd"
+global.packname = "Golden Lorvid"
+global.author = "Golden Lorvid"
+global.themeemoji = "🛡️"
+global.reactmoji = "🛡️"
+global.ownertag = ['966559202629'] //ur owner tag
+global.ownernummenu = ['966559202629'] //ur owner number in menu and all
+global.watermark = "Golden Lorvid" //ur watermark
+global.botscript = "https://chat.whatsapp.com/GASmu41AJvGCXAPEy17ddN"
+global.linkz1 = "https://chat.whatsapp.com/GASmu41AJvGCXAPEy17ddN"
+global.linkz2 = "https://chat.whatsapp.com/GASmu41AJvGCXAPEy17ddN"
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
@@ -94,19 +73,19 @@ global.sessionName = "session"
 global.antitags = true
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.mess = {
-    success: 'Done✓',
-    admin: 'This feature is only for admins!',
-    botAdmin: 'Bot Must Be Admin First!',
-    owner: 'This feature is only for owner',
-    group: 'This feature is only for groups!',
-    private: 'This feature is only for private chats!',
-    bot: 'This feature is only for bot',
-    wait: 'In process...',
-    linkm: 'Where is the link?',
-    error: 'Error!',
-    ban: 'You have been banned by the owner, if you want to be unbanned, chat owner.',
-    nsfw: 'The nsfw feature has not been activated, please contact the admin to activate',
-    banChat: 'The bot was banned in this group, please contact the owner to unban'
+    success: 'تم✓',
+    admin: 'هذا الامر للمشرفين فقط!',
+    botAdmin: 'لازم البوت يكون معه ادمن!',
+    owner: 'هذا الامر للاونر فقط',
+    group: 'هذا الامر للقروبات فقط!',
+    private: 'هذا الامر للخاص فقط!',
+    bot: 'هذا الامر للبوتات فقط',
+    wait: 'جار التحميل...',
+    linkm: 'ما حطيت رابط , وين الرابط؟؟',
+    error: 'حصل خطأ!',
+    ban: 'تم تبنيدك من قبل الاونر, تواصل معه اذا تبي تفكه.',
+    nsfw: 'لول',
+    banChat: 'البوت مبند من القروب ذا, تواصل مع الاونر يفكه'
 }
 global.limitawal = {
     premium: "Infinity",
