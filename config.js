@@ -27,16 +27,15 @@ global.socialm = "Golden Lorvid" //ur github or insta name
 global.location = "Golden Lorvid" //ur location
 
 //bot bombdy
-global.botname = "Dora" //ur bot name
-global.websitex = "www.yogan.biz" //ur website
-global.vidmenu = { url: 'https://a.uguu.se/zlzQZvXH.mp4' } //gif and video menu
-global.packname = "Golden Lorvid"
+global.botname = "Dora"
+global.vidmenu = { url: 'https://cdn-media.f-static.net/uploads/5390166/normal_62e18f3899612.mp4' } //gif and video menu
+global.packname = "Golden Lorvid "
 global.author = "Golden Lorvid"
 global.themeemoji = "🛡️"
 global.reactmoji = "🛡️"
 global.ownertag = ['966559202629'] //ur owner tag
 global.ownernummenu = ['966559202629'] //ur owner number in menu and all
-global.watermark = "Golden Lorvid" //ur watermark
+global.watermark = "Golden Lorvid." //ur watermark
 global.botscript = "https://chat.whatsapp.com/GASmu41AJvGCXAPEy17ddN"
 global.linkz1 = "https://chat.whatsapp.com/GASmu41AJvGCXAPEy17ddN"
 global.linkz2 = "https://chat.whatsapp.com/GASmu41AJvGCXAPEy17ddN"
